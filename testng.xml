@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/prasanna.prabakaran/IdeaProjects/online shopping">
+    <classes>
+        <class name="VerifyProducts.VerifySearchProduct"><methods><include name="searchAndVerify"/></methods></class>
+        <class name="VerifyProducts.FindLowestPriceItem"><methods><include name="find"/></methods></class>
+       <!-- <class name="VerifyProducts.FindLowestpriceIUsing2DObject"><methods><include name="find"/></methods></class> -->
+    </classes></test></suite>
